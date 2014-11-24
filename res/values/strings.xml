@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tin tức online</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Tin tức online</string>
+    <string name="drawer_close">Tin tức online</string>
+    <string name="lookup_word">Tin tức online</string>
+    
+    <string-array name="drawer_title_array">
+        <item>Màn Hình Chính</item>
+        <item>Tin tức</item>
+        <item>Văn hóa</item>
+        <item>Xã hội</item>
+        <item>Giới Thiệu</item>
+        <item>Liên hệ</item>
+    </string-array>
+
+    <array name="drawer_icon_array">
+        <item>@drawable/ic_menu_home</item>
+        <item>@drawable/ic_tintuc</item>
+        <item>@drawable/ic_tintuc</item>
+        <item>@drawable/ic_tintuc</item>
+        <item>@drawable/ic_gioithieu</item>
+        <item>@drawable/lienhe</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
